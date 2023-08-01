@@ -1,0 +1,3 @@
+Neste exemplo são considerados 5 cursos com 2 vagas e 10 candidatos com notas de candidadtura de 11 a 20 e todos com as mesmas 5 opções 
+
+./CNAES -c ./ExemplosProjecto/Ex_02/Candidatos_N10_C11_O05.csv -i ./ExemplosProjecto/Ex_02/Cursos_N05_V02.csv

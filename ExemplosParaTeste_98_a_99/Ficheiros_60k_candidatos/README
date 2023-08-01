@@ -1,0 +1,3 @@
+Neste exemplo são considerados os ficheiros com o número total de cursos disponíveis, nas candidaturas de 2022, com 60000 candidatos, estes, todos com 5 opções.
+
+./CNAES -c ./ExemplosProjecto/Ex_99/Candidatos_Completo.csv -i ./ExemplosProjecto/Ex_99/Cursos_Completo.csv  

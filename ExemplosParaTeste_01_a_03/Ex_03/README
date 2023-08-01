@@ -1,0 +1,4 @@
+Neste exemplo são considerados 5 cursos com 2 vagas e 13 candidatos com notas de candidadtura de 20 a 11, com repetições, e todos com as mesmas 5 opções. Neste caso apesar de os cursos terem só 2 vagas há mais colocados devido a situação de empate.
+
+./CNAES -c ./ExemplosProjecto/Ex_03/Candidatos_N13_C20R_O05.csv -i ./ExemplosProjecto/Ex_03/Cursos_N05_V02.csv 
+
